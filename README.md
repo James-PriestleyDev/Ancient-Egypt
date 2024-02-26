@@ -19,3 +19,7 @@ Reference for favicon image:
 
 https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
 
+
+Footer:
+
+Code for footer was taken from the 'Love Running' module provided by Code Institute.
