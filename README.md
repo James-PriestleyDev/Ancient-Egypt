@@ -8,3 +8,14 @@ Div 2 will be about the pyramids, pharoahs and heiroglyphics
 Div 3 will be for the newsletter form where people can sign up to a 'monthly' newsletter for facts bout ancient egypt.
 
 Footer will hold the social media links for said website. 
+
+
+
+
+
+### REFERENCES ###
+
+Reference for favicon image:
+
+https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
+
