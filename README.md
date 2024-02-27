@@ -19,6 +19,16 @@ Reference for favicon image:
 
 https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
 
+Text-content for the "egypt-intro" section has been copied by: 
+https://www.history.com/topics/ancient-egypt/ancient-egypt
+
+Text-content for the "egypt-pyramids" section has been copied by:
+https://www.history.com/topics/ancient-egypt/the-egyptian-pyramids
+
+Text-content for the "egypt-hieroglyphics" section has been copied by:
+https://www.newscientist.com/definition/hieroglyphics/
+
+
 
 Footer:
 
