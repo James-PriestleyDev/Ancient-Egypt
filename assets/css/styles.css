@@ -8,6 +8,29 @@
 header {
     width: 100%;
     background-color: sandybrown;
+    position: fixed;
+    z-index: 10;
+    display: flex;
+    justify-content: space-between;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+#nav {
+    list-style-type: none;
+}
+
+body {
+
+}
+
+main {
+    flex: 1 0 auto;
+
 }
 
 #egypt-intro {
@@ -35,7 +58,11 @@ header {
     background-color: palevioletred;
 }
 
-footer {
+#social-networks {
     width: 100%;
     background-color: sandybrown;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
 }
