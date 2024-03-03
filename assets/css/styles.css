@@ -1,3 +1,6 @@
+/* Google Fonts URL */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap')
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -24,10 +27,10 @@ header a {
     list-style-type: none;
 }
 
-/*body {
-    
+body {
+     
 }
-*/
+
 main {
     flex: 1 0 auto;
 
@@ -35,27 +38,28 @@ main {
 
 #egypt-intro {
     width:100%;
-    height: 500px;
+    height: 300px;
     background-color: palegreen;
 
 }
 
 #egypt-pyramids{
-    width:100%;
-    height: 500px;
+    width: 100%;
+    height: 650px;
     background-color: palegoldenrod;
 }
 
 #egypt-hieroglyphics {
     width:100%;
-    height: 500px;
+    height: 400px;
     background-color: paleturquoise;
 }
 
 #egypt-newsletter {
     width:100%;
-    height: 500px;
+    height: 200px;
     background-color: palevioletred;
+    text-align: center;
 }
 
 #social-networks {
