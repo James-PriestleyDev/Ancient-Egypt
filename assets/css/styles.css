@@ -38,20 +38,34 @@ main {
     position: absolute;
 }
 
-img {
+.img-sphinx {
     width: 200px;
     height: 200px;
     padding: 10px;
-}
-
-.img-float-right {
     float: right;
+
 }
 
-.img-float-left{
+.img-pyramid {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
     float: left;
 }
 
+.img-hieroglyphs {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    float: right;
+}
+
+.img-pharoah {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    float: left;
+}
 
 #egypt-intro {
     padding: 70px 20px 10px;
@@ -110,48 +124,13 @@ img {
 
 /* Media query: small mobile phones (320px and up) */
 @media screen and (min-width: 320px) {
-    img {
-        width: 100px;
-        height: 100px;
-        padding: 10px;
-    }
+
+
+}
+
+/* Media query: small mobile phones (375px and up) */
+@media screen and (min-width: 375px) {
     
-    .img-float-right {
-        float: right;
-    }
-    
-    .img-float-left{
-        float: left;
-    }
-    
-    #egypt-intro {
-        padding: 70px 20px 10px;
-        width:100%;
-        height: 600px;
-        background-color: rgba(203, 150, 93, 0.8);
-    }
-    
-    #egypt-pyramids{
-        padding: 70px 20px 10px;
-        width: 100%;
-        height: 1075px;
-        background-color: rgba(223, 149, 71, 1);
-    }
-    
-    #egypt-hieroglyphics {
-        padding: 70px 20px 10px;
-        width:100%;
-        height: 700px;
-        background-color: rgba(203, 150, 93, 0.8);
-    }
-    
-    #egypt-newsletter {
-        padding: 50px 10px 5px;
-        width:100%;
-        height: 400px;
-        background-color: rgba(223, 149, 71, 1);
-        text-align: center;
-    } 
 
 }
 
