@@ -20,8 +20,10 @@
 <body>
     <!-- Nav Bar + title of website -->
     <header>
-        <h1>Ancient Egypt</h1>
-         <nav>
+        <a href="index.html">
+            <h1>Ancient Egypt</h1>
+        </a>
+        <nav>
             <ul id="nav">
                 <li><a href="index.html">Ancient Egypt</a></li>
                 <li><a href="pyramids.html">Pyramids</a></li>
@@ -31,33 +33,29 @@
         </nav>
     </header>
 
-    <!-- main section -->    
-  <main>
-
-    <!-- Information regarding Pyramids -->
-    <section id="egypt-pyramids">
+    <!-- Main Content -->    
+  <main>    
+    <!-- Sign up form for a newsletter filled with fun facts about ancient egypt -->
+    <section id="egypt-newsletter">
         <div>
-            <!-- Image provided by https://nileholiday.com/blogposts/how-to-plan-a-family-vacation-in-egypt-with-kids -->
-            <img src="assets/images/pyramid-camels.webp" class="img-pyramid" alt="image of an egyptian pyramid">
-        </div>
-        <h2>Pyramids</h2>
-        <br>
-        <p>No pyramids are more celebrated than the Great Pyramids of Giza, 
-            located on a plateau on the west bank of the Nile River, on the outskirts of modern-day Cairo.
-            The oldest and largest of the three pyramids at Giza, known as the Great Pyramid, 
-            is the only surviving structure out of the famed Seven Wonders of the Ancient World. 
-            It was built for Pharaoh Khufu (Cheops, in Greek), Sneferu’s successor and the second of the eight kings of the fourth dynasty.
-            Though Khufu reigned for 23 years (2589-2566 B.C.), relatively little is known of his reign beyond the grandeur of his pyramid. 
-            The sides of the pyramid’s base average 755.75 feet (230 meters), and its original height was 481.4 feet (147 meters), making it the largest pyramid in the world. 
-            Three small pyramids built for Khufu’s queens are lined up next to the Great Pyramid, and a tomb was found nearby containing the empty sarcophagus of his mother, Queen Hetepheres. 
-            Like other pyramids, Khufu’s is surrounded by rows of mastabas, where relatives or officials of the king were buried to accompany and support him in the afterlife.
-            The middle pyramid at Giza was built for Khufu’s son Pharaoh Khafre (2558-2532 B.C). The Pyramid of Khafre is the second tallest pyramid at Giza and contains Pharaoh Khafre’s tomb. 
-            A unique feature built inside Khafre’s pyramid complex was the Great Sphinx, a guardian statue carved in limestone with the head of a man and the body of a lion. 
-            It was the largest statue in the ancient world, measuring 240 feet long and 66 feet high. In the 18th dynasty (c. 1500 B.C.) the Great Sphinx would come to be worshiped itself, as the image of a local form of the god Horus. 
-            The southernmost pyramid at Giza was built for Khafre’s son Menkaure (2532-2503 B.C.). It is the shortest of the three pyramids (218 feet) and is a precursor of the smaller pyramids that would be constructed during the fifth and sixth dynasties.    
-        </p>    
+            <img src="assets/images/pharoah.webp" class="img-pharoah" alt="image of a pharoah">
+        
+        <form id="newsletter" method="post" action="https://formdump.codeinstitute.net">
+            <h2>Sign up to our Phunky Pharoah Newsletter!</h2>
+            <br>
+            <label for="first-name">First Name:</label>
+            <input type="text" id="first-name" name="first-name" class="" required>
+            <br>
+            <label for="last-name">Last Name:</label>
+            <input type="text" id="last-name" name="last-name" class="" required>
+            <br>
+            <label for="email-address">E-mail:</label>
+            <input type="email" id="email-address" name="email-address" class="" required>
+            <br>
+            <button type="submit" class="submit-button">Submit</button>
+        </form>
+    </div>
     </section>
-
   </main>
     <!-- Footer will hold social media links for said website -->
     <footer>
