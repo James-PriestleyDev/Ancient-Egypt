@@ -109,12 +109,28 @@ main {
     text-align: center;
 }
 
+/* styling for input part of the form */
+input[type=text] {
+    background-color: palegoldenrod;
+    border: 0px;
+    border-radius: 4px;
+}
+
+/* styling for input part of the form */
+input[type=email] {
+    background-color: palegoldenrod;
+    border: 0px;
+    border-radius: 4px;
+}
+
+
 /* Styling for the button on the newsletter.html page */
 .submit-button {
     margin: 10px;
     padding: 5px;
     background-color: palegoldenrod;
     border-radius: 5px;
+    border-color: white;
 }
 
 /* styling of the social media links in the footer */
