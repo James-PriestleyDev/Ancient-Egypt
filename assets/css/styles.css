@@ -8,11 +8,12 @@
     box-sizing: border-box;
 }
 
-
+/* Selectors to change the font-family of the h1, h2, h3, p to show the new font */
 h1, h2, h3, p {
     font-family: 'Roboto Condensed', sans-serif;  
 }
 
+/* Header styling */
 header {
     width: 100%;
     background-color: rgba(135, 82, 25, 1);
@@ -20,24 +21,29 @@ header {
     position: fixed;
     z-index: 10;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    letter-spacing: 2px;
 }
 
+/* styling for the nav list */
 header a {
     text-decoration: none;
-    color: inherit;
+    color: inherit;  
 }
 
 #nav {
     list-style-type: none;
 }
 
+/* Make main element take up any surplus space to push footer down - this code was inspired by the
+    Love Running project by Code Institute */
 main {
     flex: 1 0 auto;
     margin-top: 70px;
     position: absolute;
 }
 
+/* styling of the sphinx image */
 .img-sphinx {
     width: 200px;
     height: 200px;
@@ -46,6 +52,7 @@ main {
 
 }
 
+/* styling of the pyramid image */
 .img-pyramid {
     width: 200px;
     height: 200px;
@@ -53,6 +60,7 @@ main {
     float: left;
 }
 
+/* styling of the hieroglyphs image */
 .img-hieroglyphs {
     width: 200px;
     height: 200px;
@@ -60,6 +68,7 @@ main {
     float: right;
 }
 
+/* styling of the pharoah image */
 .img-pharoah {
     width: 200px;
     height: 200px;
@@ -67,6 +76,7 @@ main {
     float: left;
 }
 
+/* Styling for the index.html page */
 #egypt-intro {
     padding: 70px 20px 10px;
     width:100%;
@@ -74,6 +84,7 @@ main {
     background-color: rgba(203, 150, 93, 0.8);
 }
 
+/* Styling for the pyramids.html page */
 #egypt-pyramids{
     padding: 70px 20px 10px;
     width: 100%;
@@ -81,6 +92,7 @@ main {
     background-color: rgba(223, 149, 71, 1);
 }
 
+/* Styling for the hieroglyphics.html page */
 #egypt-hieroglyphics {
     padding: 70px 20px 10px;
     width:100%;
@@ -88,6 +100,7 @@ main {
     background-color: rgba(203, 150, 93, 0.8);
 }
 
+/* styling for the newsletter.html page */
 #egypt-newsletter {
     padding: 50px 10px 5px;
     width:100%;
@@ -96,6 +109,7 @@ main {
     text-align: center;
 }
 
+/* Styling for the button on the newsletter.html page */
 .submit-button {
     margin: 10px;
     padding: 5px;
@@ -103,6 +117,7 @@ main {
     border-radius: 5px;
 }
 
+/* styling of the social media links in the footer */
 #social-networks {
     padding: 10px;
     width: 100%;
@@ -117,6 +132,7 @@ main {
     list-style-type: none;
 }
 
+/* Styling of the social media links in the footer */
 #social-networks a {
     color: inherit;
     text-decoration: none;
