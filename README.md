@@ -65,7 +65,8 @@ Testing
 
 I have tested this page works on all browsers
 I confirmed that this project works on all standard screen sizes using the devtools device toolbar
-(Sizes were; )
+(Sizes were based off the dimentions given on the toolbar at the top of the 'device emulation' tool)
+
 
 --------------------------------------------------------------------------------------------
 This website is aimed at people who love Ancient Egypt. 

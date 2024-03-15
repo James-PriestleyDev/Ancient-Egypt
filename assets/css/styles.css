@@ -336,11 +336,11 @@ input[type=email] {
 
 }
 
-/* Media query: tablet devices (768px and up */
+/* Media query: tablet devices (768px and up) */
 @media screen and (min-width: 768px) {
 
 /* Header styling */
-header {
+    header {
     width: 100%;
     background-color: rgba(135, 82, 25, 1);
     color: white;
@@ -353,21 +353,22 @@ header {
     padding-left: 20px;
     flex-direction: row;
     font-size: x-large;
-}
+    }
 
-header a {
+    header a {
     text-decoration: none;
     color: inherit;
-}
+    }   
 
-ul {
+    ul {
     list-style-type: none;
-}
+    }
 
-li {
+    li {
     font-size: x-large;
-}
+    }
 
+    /* Styling for images on tablets */
     .img-sphinx {
         width: 300px;
         height: 300px;
@@ -376,12 +377,14 @@ li {
     
     }
     
+    
     .img-pyramid {
         width: 325px;
         height: 325px;
         padding: 7px;
         float: left;
     }
+    
     
     .img-hieroglyphs {
         width: 300px;
@@ -390,6 +393,7 @@ li {
         float: right;
     }
     
+    
     .img-pharoah {
         width: 250px;
         height: 350px;
@@ -397,6 +401,7 @@ li {
         float: left;
     }
     
+    /* styling for sections on tablet devices */
     #egypt-intro {
         /* Added margin-top as a solution removing white space between header and section.
         Could not figure out why it only was happening to this page, all other pages work fine
@@ -404,7 +409,7 @@ li {
         margin-top: -10px;
         padding: 70px 20px 10px;
         width:100%;
-        height: 1400px;
+        height: 1100px;
         background-color: rgba(203, 150, 93, 0.8);
         font-size: x-large;
     }
@@ -436,7 +441,7 @@ li {
 
 }
 
-/* Media query: laptop devices (1024px and up*/
+/* Media query: laptop devices (1024px and up) */
 @media screen and (min-width: 1024px) {
     header {
         font-size: x-large;
@@ -446,6 +451,7 @@ li {
         font-size: x-large;
     }
     
+    /* styling for images on laptop devices */
     .img-sphinx {
         width: 400px;
         height: 400px;
@@ -475,10 +481,11 @@ li {
         float: left;
     }
 
+    /* styling of sections on laptop devices */
     #egypt-intro {
         padding: 70px 20px 10px;
         width:100%;
-        height: 1066px;
+        height: 1400px;
         background-color: rgba(203, 150, 93, 0.8);
         font-size: xx-large;
     }
@@ -486,7 +493,7 @@ li {
     #egypt-pyramids{
         padding: 70px 20px 10px;
         width: 100%;
-        height: 1066px;
+        height: 1400px;
         background-color: rgba(223, 149, 71, 1);
         font-size: xx-large;
     }
@@ -494,7 +501,7 @@ li {
     #egypt-hieroglyphics {
         padding: 70px 20px 10px;
         width:100%;
-        height: 1066px;
+        height: 1400px;
         background-color: rgba(203, 150, 93, 0.8);
         font-size: xx-large;
     }
@@ -503,6 +510,82 @@ li {
         padding: 50px 10px 5px;
         width:100%;
         height: 1066px;
+        background-color: rgba(223, 149, 71, 1);
+        text-align: center;
+        font-size: xx-large;
+    }
+
+}
+
+/* Media query: large laptop devices (1440px and up) */
+@media screen and (min-width: 1024px) {
+    header {
+        font-size: x-large;
+    }
+
+    li {
+        font-size: x-large;
+    }
+    
+    /* styling of images on large laptop devices */
+    .img-sphinx {
+        width: 400px;
+        height: 400px;
+        padding: 7px;
+        float: right;
+    
+    }
+    
+    .img-pyramid {
+        width: 400px;
+        height: 400px;
+        padding: 7px;
+        float: left;
+    }
+    
+    .img-hieroglyphs {
+        width: 400px;
+        height: 400px;
+        padding: 7px;
+        float: right;
+    }
+    
+    .img-pharoah {
+        width: 350px;
+        height: 350px;
+        padding: 7px;
+        float: left;
+    }
+
+    /* styling of sections on large laptop devices */
+    #egypt-intro {
+        padding: 70px 20px 10px;
+        width:100%;
+        height: 1400px;
+        background-color: rgba(203, 150, 93, 0.8);
+        font-size: xx-large;
+    }
+    
+    #egypt-pyramids{
+        padding: 70px 20px 10px;
+        width: 100%;
+        height: 1400px;
+        background-color: rgba(223, 149, 71, 1);
+        font-size: xx-large;
+    }
+    
+    #egypt-hieroglyphics {
+        padding: 70px 20px 10px;
+        width:100%;
+        height: 1400px;
+        background-color: rgba(203, 150, 93, 0.8);
+        font-size: xx-large;
+    }
+    
+    #egypt-newsletter {
+        padding: 50px 10px 5px;
+        width:100%;
+        height: 1400px;
         background-color: rgba(223, 149, 71, 1);
         text-align: center;
         font-size: xx-large;
