@@ -125,7 +125,3 @@ Footer:
 README.md
 
 - The structure and layout of the README.md was taken from the SAMPLE README.md provided by Code Institute in the PP1 module of their course. 
-
-
-FUTURE IMPLEMENTATIONS 
-
