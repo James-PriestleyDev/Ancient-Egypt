@@ -10,7 +10,14 @@ Div 3 will be for the newsletter form where people can sign up to a 'monthly' ne
 Footer will hold the social media links for said website. 
 
 
+BUGS
 
+Debugged an issue which I created when adding the google-fonts to my css. 
+I had fogotten to add a ';' to the end of the input resulting in all my css styling 
+to become ignored by the PC.
+
+Debugged another issue when creating responsiveness with my website. I had issues with white-
+space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Removing this then removed the white-space on my website.
 
 
 ### REFERENCES ###
