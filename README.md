@@ -25,14 +25,14 @@ the font and color themes throughout the website are based from the intial landi
 navigation and footer features which remain the same throughout each page.
 The page also describes who the website is for 'seasoned historian or an avid enthusiast'
 
-![Image of the websites landing page (index.html)]{docs/landing-page.PNG}
+![Image of the websites landing page (index.html)](docs/landing-page.PNG)
 
 Pyramids
 
 The Pyramids page gives an in-depth description regarding the pyramids of Giza
 This page also adheres to the theme throughout the website with accompanying image of the pyramids.
 
-![Image of the websites page about the egyptian pyramids (pyramids.html)]{docs/pyramid-page.PNG}
+![Image of the websites page about the egyptian pyramids (pyramids.html)](docs/pyramid-page.PNG)
 
 Hieroglyphics
 
@@ -40,7 +40,7 @@ The Hieroglyphics page gives an in-depth description of the ancient egyptians Hi
 'hieoglpyh' comes from.
 The page also adheres the theme of the website and continues to have the same structure with the header and footer fixed at the top and bottom of the page. 
 
-![Image of the websites page about the ancient egypt hieroglyphs(hieroglyphics.html)]{docs/hieroglyphics-page.PNG}
+![Image of the websites page about the ancient egypt hieroglyphs(hieroglyphics.html)](docs/hieroglyphics-page.PNG)
 
 Newsletter
 
@@ -49,7 +49,7 @@ The page adheres to the theme of the website.
 On the page there is a form for the user to fill out asking for their first and last name and their email address.
 The sign-up form is valuable to the user as it gives them opportunity to sign up to the newsletter.
 
-![Image of the websites sign-up page (newsletter.html)]{docs/newsletter-page.PNG}
+![Image of the websites sign-up page (newsletter.html)](docs/newsletter-page.PNG)
 
 Footer
 
@@ -59,7 +59,7 @@ to take them to the relevant social media accounts which are linked to the Ancie
 (There are no social media accounts linked to the Ancient Egypt website if this were for a real
 website or client then there would be. Not sure if this needs to be noted)
 
-![Image of the websites footer which holds all the social media links]{docs/footer.PNG}
+![Image of the websites footer which holds all the social media links](docs/footer.PNG)
 
 Testing
 
@@ -69,7 +69,7 @@ I confirmed that this project works on all standard screen sizes using the devto
 I confirm that all elements of the website are easy to read and easy to understand.
 I have confirmed that the form works: requires entries in every field and will only accept email in the email field and the submit button works. 
 
-![Image of the form once the user has clicked the submit button]{docs/submit-page.PNG}
+![Image of the form once the user has clicked the submit button](docs/submit-page.PNG)
 
 Bugs
 
@@ -79,6 +79,8 @@ to become ignored by the PC.
 
 Debugged another issue when creating responsiveness with my website. I had issues with white-
 space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
+
+Debugged an issue with my images not showing on README.md. Turns out I used {} instead of () for linking the image to the .md - Issue has been resolved using correct ()
 
 Validator Testing
 
