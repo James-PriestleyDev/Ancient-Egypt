@@ -190,8 +190,6 @@ input[type=email] {
         padding: 2px;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pyramid {
         width: 250px;
         height: 250px;
@@ -199,8 +197,6 @@ input[type=email] {
         float: left;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-hieroglyphs {
         width: 250px;
         height: 250px;
@@ -208,8 +204,6 @@ input[type=email] {
         float: right;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pharoah {
         width: 300px;
         height: 300px;
@@ -227,8 +221,6 @@ input[type=email] {
         background-color: rgba(203, 150, 93, 0.8);
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     #egypt-pyramids{
         padding: 70px 20px 10px;
         width: 100%;
@@ -236,8 +228,6 @@ input[type=email] {
         background-color: rgba(223, 149, 71, 1);
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     #egypt-hieroglyphics {
         padding: 70px 20px 10px;
         width:100%;
@@ -245,8 +235,6 @@ input[type=email] {
         background-color: rgba(203, 150, 93, 0.8);
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     #egypt-newsletter {
         padding: 50px 10px 5px;
         width:100%;
@@ -267,8 +255,6 @@ input[type=email] {
         padding: 7px;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pyramid {
         width: 350px;
         height: 350px;
@@ -276,8 +262,6 @@ input[type=email] {
         float: left;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-hieroglyphs {
         width: 350px;
         height: 350px;
@@ -285,8 +269,6 @@ input[type=email] {
         float: right;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pharoah {
         width: 350px;
         height: 300px;
@@ -307,8 +289,6 @@ input[type=email] {
         padding: 7px;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pyramid {
         width: 350px;
         height: 350px;
@@ -316,8 +296,6 @@ input[type=email] {
         float: left;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-hieroglyphs {
         width: 350px;
         height: 350px;
@@ -325,8 +303,6 @@ input[type=email] {
         float: right;
     }
     
-    /* Re-sizing of image for mobile making the image appear at the top of the text
-    instead of to the side */
     .img-pharoah {
         width: 375px;
         height: 300px;
