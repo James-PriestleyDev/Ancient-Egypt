@@ -4,6 +4,11 @@ The Ancient Egypt website is a landing page for avid historians of any age who a
 
 Users of this website will find out all they need to know about Ancient Egypt, Pyramids and Hieroglyphics as they make their journey through the website. The site is targeted towards anyone who has an interest in Ancient Egypt and it's many wonders. 
 
+### Website Responsiveness
+
+![Image of my website shown through varied view ports](docs/AmI-responsive.PNG)
+
+FEATURES
 
 
 
