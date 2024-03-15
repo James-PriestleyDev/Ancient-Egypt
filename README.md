@@ -51,6 +51,22 @@ The sign-up form is valuable to the user as it gives them opportunity to sign up
 
 ![Image of the websites sign-up page (newsletter.html)]{docs/newsletter-page.PNG}
 
+Footer
+
+At the bottom of each page there is the footer.
+The footer holds the social media links which are valuable to the user as they can use these links 
+to take them to the relevant social media accounts which are linked to the Ancient Egypt website
+(There are no social media accounts linked to the Ancient Egypt website if this were for a real
+website or client then there would be. Not sure if this needs to be noted)
+
+![Image of the websites footer which holds all the social media links]{docs/footer.PNG}
+
+Testing
+
+I have tested this page works on all browsers
+I confirmed that this project works on all standard screen sizes using the devtools device toolbar
+(Sizes were; )
+
 --------------------------------------------------------------------------------------------
 This website is aimed at people who love Ancient Egypt. 
 
