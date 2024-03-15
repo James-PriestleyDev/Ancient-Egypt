@@ -106,14 +106,13 @@ Reference for favicon image:
 
 https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
 
-Text-content for the "egypt-intro" section has been copied by: 
-https://www.history.com/topics/ancient-egypt/ancient-egypt
+Text-content for the pages was created and taken from chatGPT.
 
-Text-content for the "egypt-pyramids" section has been copied by:
-https://www.history.com/topics/ancient-egypt/the-egyptian-pyramids
+I have credited the images I used in the comments of the HTML above where the image has been placed and will show the links in the README.md also:
 
-Text-content for the "egypt-hieroglyphics" section has been copied by:
-https://www.newscientist.com/definition/hieroglyphics/
+Image provided by https://www.pyramidsland.com/blog/the-great-egyptian-sphinx-of-giza
+Image provided by https://egypt-museum.com/learn-egyptian-hieroglyphs 
+Image provided by https://nileholiday.com/blogposts/how-to-plan-a-family-vacation-in-egypt-with-kids
 
 Unfortunately after hours of seaching I was unable to find the image of the Pharoah which is on my newsletter page so I am unable to reference the image here. Further down the line I will continue my search to find the image so that I can add it to my CREDITS section later down the line. 
 
