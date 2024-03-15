@@ -1,4 +1,4 @@
-ANCIENT EGYPT
+### ANCIENT EGYPT
 
 The Ancient Egypt website is a landing page for avid historians of any age who are looking for information on Ancient Egypt, hieroglyphics and the pyramids.
 
@@ -8,7 +8,7 @@ Users of this website will find out all they need to know about Ancient Egypt, P
 
 ![Image of my website shown through varied view ports](assets/docs/AmI-responsive.PNG)
 
-FEATURES
+### FEATURES
 
 Navigation bar
 
@@ -61,7 +61,7 @@ website or client then there would be. Not sure if this needs to be noted)
 
 ![Image of the websites footer which holds all the social media links](assets/docs/footer.PNG)
 
-Testing
+### Testing
 
 I have tested this page works on all browsers
 I confirmed that this project works on all standard screen sizes using the devtools device toolbar
@@ -71,7 +71,7 @@ I have confirmed that the form works: requires entries in every field and will o
 
 ![Image of the form once the user has clicked the submit button](assets/docs/submit-page.PNG)
 
-Bugs
+### Bugs
 
 Debugged an issue which I created when adding the google-fonts to my css. 
 I had fogotten to add a ';' to the end of the input resulting in all my css styling 
@@ -82,7 +82,7 @@ space inbetween the header and the main content due to a margin I had placed in 
 
 Debugged an issue with my images not showing on README.md. Turns out I used {} instead of () for linking the image to the .md - Issue has been resolved using correct ()
 
-Validator Testing
+### Validator Testing
 
 HTML
 - No errors in the HTML when checking it with the official W3C validator.
@@ -93,7 +93,7 @@ Accessibility
 
 ![Image of results from the website being ran through Lighthouse in devtools]{docs/lighthouse.PNG}
 
-Deployment
+### Deployment
 
 - The site was deployed to Github pages. The steps to deploy are as follows:
   - In the Github repository, navigate to the Settings tab
@@ -102,7 +102,7 @@ Deployment
 
 The live link can be found here: https://james-priestleydev.github.io/Ancient-Egypt/
 
-CREDITS
+### CREDITS
 
 Reference for favicon image:
 
@@ -129,50 +129,3 @@ README.md
 
 FUTURE IMPLEMENTATIONS 
 
-
-
-
---------------------------------------------------------------------------------------------
-This website is aimed at people who love Ancient Egypt. 
-
-Header will hold a logo (ideally a Pharoahs head) along with a nav bar for the user to quickly
-navgiate between the 3 sections.
-
-Div 1 will be about Ancient Egypt a brief history of their timeline
-Div 2 will be about the pyramids, pharoahs and heiroglyphics
-Div 3 will be for the newsletter form where people can sign up to a 'monthly' newsletter for facts bout ancient egypt.
-
-Footer will hold the social media links for said website. 
-
-
-BUGS
-
-Debugged an issue which I created when adding the google-fonts to my css. 
-I had fogotten to add a ';' to the end of the input resulting in all my css styling 
-to become ignored by the PC.
-
-Debugged another issue when creating responsiveness with my website. I had issues with white-
-space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
-
-### REFERENCES ###
-
-Reference for favicon image:
-
-https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
-
-I have taken the styling for the asterisk wildcard selector from the Love Running project.
-
-Text-content for the "egypt-intro" section has been copied by: 
-https://www.history.com/topics/ancient-egypt/ancient-egypt
-
-Text-content for the "egypt-pyramids" section has been copied by:
-https://www.history.com/topics/ancient-egypt/the-egyptian-pyramids
-
-Text-content for the "egypt-hieroglyphics" section has been copied by:
-https://www.newscientist.com/definition/hieroglyphics/
-
-
-
-Footer:
-
-Code for footer was taken from the 'Love Running' module provided by Code Institute.
