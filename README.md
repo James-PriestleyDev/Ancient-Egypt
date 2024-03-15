@@ -17,7 +17,7 @@ I had fogotten to add a ';' to the end of the input resulting in all my css styl
 to become ignored by the PC.
 
 Debugged another issue when creating responsiveness with my website. I had issues with white-
-space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Removing this then removed the white-space on my website.
+space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
 
 
 ### REFERENCES ###
