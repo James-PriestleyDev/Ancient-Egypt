@@ -19,6 +19,8 @@ to become ignored by the PC.
 Debugged another issue when creating responsiveness with my website. I had issues with white-
 space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
 
+When creating responsivness for tablet size devices I ran into a bug with my index.html page. A white space had been created between the header and the content section. Due to time-constraints I came up with a quick fix of adding a 'margin-top: -10px;' to the intro section and added a comment to the part in the css.
+
 
 ### REFERENCES ###
 
