@@ -83,13 +83,50 @@ space inbetween the header and the main content due to a margin I had placed in 
 Validator Testing
 
 HTML
-No errors in the HTML when checking it with the official W3C validator.
+- No errors in the HTML when checking it with the official W3C validator.
 CSS
-No errors in the CSS when checking it with the offical W3C validator.
+- No errors in the CSS when checking it with the offical W3C validator.
 Accessibility
-I can confirm that the colours and fonts I have chosen make reading it easy and accessible by running it through Lighthouse in devtools.
+- I can confirm that the colours and fonts I have chosen make reading it easy and accessible by running it through Lighthouse in devtools.
 
 ![Image of results from the website being ran through Lighthouse in devtools]{docs/lighthouse.PNG}
+
+Deployment
+
+- The site was deployed to Github pages. The steps to deploy are as follows:
+  - In the Github repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page provided the link to the completed website
+
+The live link can be found here: https://james-priestleydev.github.io/Ancient-Egypt/
+
+CREDITS
+
+Reference for favicon image:
+
+https://www.vecteezy.com/vector-art/14399360-pyramid-cartoon-vector-icon-illustration-famous-building-traveling-icon-concept-isolated-premium-vector-flat-cartoon-style
+
+Text-content for the "egypt-intro" section has been copied by: 
+https://www.history.com/topics/ancient-egypt/ancient-egypt
+
+Text-content for the "egypt-pyramids" section has been copied by:
+https://www.history.com/topics/ancient-egypt/the-egyptian-pyramids
+
+Text-content for the "egypt-hieroglyphics" section has been copied by:
+https://www.newscientist.com/definition/hieroglyphics/
+
+Unfortunately after hours of seaching I was unable to find the image of the Pharoah which is on my newsletter page so I am unable to reference the image here. Further down the line I will continue my search to find the image so that I can add it to my CREDITS section later down the line. 
+
+Footer:
+
+- Code for footer was taken from the 'Love Running' module provided by Code Institute.
+
+README.md
+
+- The structure and layout of the README.md was taken from the SAMPLE README.md provided by Code Institute in the PP1 module of their course. 
+
+
+FUTURE IMPLEMENTATIONS 
 
 
 
