@@ -1,3 +1,15 @@
+ANCIENT EGYPT
+
+The Ancient Egypt website is a landing page for avid historians of any age who are looking for information on Ancient Egypt, hieroglyphics and the pyramids.
+
+Users of this website will find out all they need to know about Ancient Egypt, Pyramids and Hieroglyphics as they make their journey through the website. The site is targeted towards anyone who has an interest in Ancient Egypt and it's many wonders. 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
 This website is aimed at people who love Ancient Egypt. 
 
 Header will hold a logo (ideally a Pharoahs head) along with a nav bar for the user to quickly
