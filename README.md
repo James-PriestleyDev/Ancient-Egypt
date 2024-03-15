@@ -32,10 +32,24 @@ Pyramids
 The Pyramids page gives an in-depth description regarding the pyramids of Giza
 This page also adheres to the theme throughout the website with accompanying image of the pyramids.
 
+![Image of the websites page about the egyptian pyramids (pyramids.html)]{docs/pyramid-page.PNG}
 
+Hieroglyphics
 
+The Hieroglyphics page gives an in-depth description of the ancient egyptians Hieroglyps and where the word 
+'hieoglpyh' comes from.
+The page also adheres the theme of the website and continues to have the same structure with the header and footer fixed at the top and bottom of the page. 
 
+![Image of the websites page about the ancient egypt hieroglyphs(hieroglyphics.html)]{docs/hieroglyphics-page.PNG}
 
+Newsletter
+
+The newsletter page gives the user a chance to sign-up to the websites newsletter about Ancient Egypt.
+The page adheres to the theme of the website.
+On the page there is a form for the user to fill out asking for their first and last name and their email address.
+The sign-up form is valuable to the user as it gives them opportunity to sign up to the newsletter.
+
+![Image of the websites sign-up page (newsletter.html)]{docs/newsletter-page.PNG}
 
 --------------------------------------------------------------------------------------------
 This website is aimed at people who love Ancient Egypt. 
