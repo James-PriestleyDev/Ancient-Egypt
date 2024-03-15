@@ -10,6 +10,29 @@ Users of this website will find out all they need to know about Ancient Egypt, P
 
 FEATURES
 
+Navigation bar
+
+At the top of the page sits the navigation bar. The navigation bar shows the name of the website in the top left corner.
+On the right hand side of the navgiation bar there are links: Ancient Egypt, Pyramids, Hieroglyphics, Newsletter. These links take you to relevant pages in the website.
+The navigation bar font is colored in a way to contrast with the background. The navigation bar also aids the user by giving the user easy access to the other parts of the website.
+
+![Image of the websites header/navigation bar]{docs/navigation-bar.PNG}
+
+Ancient Egypt
+
+The Ancient Egypt page briefly describes egypts past it also sets the theme for the website as you can see
+the font and color themes throughout the website are based from the intial landing page. Along with the fixed
+navigation and footer features which remain the same throughout each page.
+The page also describes who the website is for 'seasoned historian or an avid enthusiast'
+
+![Image of the websites landing page (index.html)]{docs/landing-page.PNG}
+
+Pyramids
+
+The Pyramids page gives an in-depth description regarding the pyramids of Giza
+This page also adheres to the theme throughout the website with accompanying image of the pyramids.
+
+
 
 
 
