@@ -66,6 +66,32 @@ Testing
 I have tested this page works on all browsers
 I confirmed that this project works on all standard screen sizes using the devtools device toolbar
 (Sizes were based off the dimentions given on the toolbar at the top of the 'device emulation' tool)
+I confirm that all elements of the website are easy to read and easy to understand.
+I have confirmed that the form works: requires entries in every field and will only accept email in the email field and the submit button works. 
+
+![Image of the form once the user has clicked the submit button]{docs/submit-page.PNG}
+
+Bugs
+
+Debugged an issue which I created when adding the google-fonts to my css. 
+I had fogotten to add a ';' to the end of the input resulting in all my css styling 
+to become ignored by the PC.
+
+Debugged another issue when creating responsiveness with my website. I had issues with white-
+space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
+
+Validator Testing
+
+HTML
+No errors in the HTML when checking it with the official W3C validator.
+CSS
+No errors in the CSS when checking it with the offical W3C validator.
+Accessibility
+I can confirm that the colours and fonts I have chosen make reading it easy and accessible by running it through Lighthouse in devtools.
+
+![Image of results from the website being ran through Lighthouse in devtools]{docs/lighthouse.PNG}
+
+
 
 
 --------------------------------------------------------------------------------------------
@@ -89,9 +115,6 @@ to become ignored by the PC.
 
 Debugged another issue when creating responsiveness with my website. I had issues with white-
 space inbetween the header and the main content due to a margin I had placed in to fix a previous issue. Reducing the size of the margin-top removed this issue.
-
-When creating responsivness for tablet size devices I ran into a bug with my index.html page. A white space had been created between the header and the content section. Due to time-constraints I came up with a quick fix of adding a 'margin-top: -10px;' to the intro section and added a comment to the part in the css.
-
 
 ### REFERENCES ###
 
