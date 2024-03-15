@@ -42,6 +42,7 @@ ul {
     Love Running project by Code Institute */
 main {
     flex: 1 0 auto;
+    margin-top: 50px;
     position: absolute;
 }
 
@@ -159,6 +160,7 @@ input[type=email] {
 /* Media query: small mobile phones (320px and up) */
 @media screen and (min-width: 320px) {
     
+
     /* Re-sizing header for responsivness on 320px */
     header {
         width: 100%;
@@ -168,10 +170,11 @@ input[type=email] {
         z-index: 10;
         display: flex;
         justify-content: space-between;
-        letter-spacing: 2px;
         padding-right: 10px;
         padding-left: 10px;
         padding-bottom: 5px;
+        flex-direction: column;
+        align-items: center;
     }
 
    /* Re-sizing of nav bar items to look neater */ 
@@ -184,6 +187,83 @@ input[type=email] {
     .img-sphinx {
         width: 250px;
         height: 250px;
+        padding: 2px;
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    .img-pyramid {
+        width: 250px;
+        height: 250px;
+        padding: 2px;
+        float: left;
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    .img-hieroglyphs {
+        width: 250px;
+        height: 250px;
+        padding: 2px;
+        float: right;
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    .img-pharoah {
+        width: 300px;
+        height: 300px;
+        padding: 2px;
+        float: left;
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    #egypt-intro {
+        margin-top: 5px;
+        padding: 70px 20px 10px;
+        width:100%;
+        height: 1250px;
+        background-color: rgba(203, 150, 93, 0.8);
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    #egypt-pyramids{
+        padding: 70px 20px 10px;
+        width: 100%;
+        height: 1100px;
+        background-color: rgba(223, 149, 71, 1);
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    #egypt-hieroglyphics {
+        padding: 70px 20px 10px;
+        width:100%;
+        height: 1150px;
+        background-color: rgba(203, 150, 93, 0.8);
+    }
+    
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    #egypt-newsletter {
+        padding: 50px 10px 5px;
+        width:100%;
+        height: 875px;
+        background-color: rgba(223, 149, 71, 1);
+        text-align: center;
+    }
+}
+
+/* Media query: medium mobile phones (375px and up) */
+@media screen and (min-width: 375px) {
+
+   /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
+    .img-sphinx {
+        width: 350px;
+        height: 350px;
         padding: 7px;
     }
     
@@ -205,49 +285,11 @@ input[type=email] {
         float: right;
     }
     
+    /* Re-sizing of image for mobile making the image appear at the top of the text
+    instead of to the side */
     .img-pharoah {
         width: 300px;
         height: 300px;
-        padding: 7px;
-        float: left;
-    }
-    
-    #egypt-intro {
-        padding: 70px 20px 10px;
-        width:100%;
-        height: 1250px;
-        background-color: rgba(203, 150, 93, 0.8);
-    }
-    
-    #egypt-pyramids{
-        padding: 70px 20px 10px;
-        width: 100%;
-        height: 1100px;
-        background-color: rgba(223, 149, 71, 1);
-    }
-    
-    #egypt-hieroglyphics {
-        padding: 70px 20px 10px;
-        width:100%;
-        height: 1150px;
-        background-color: rgba(203, 150, 93, 0.8);
-    }
-    
-    #egypt-newsletter {
-        padding: 50px 10px 5px;
-        width:100%;
-        height: 875px;
-        background-color: rgba(223, 149, 71, 1);
-        text-align: center;
-    }
-}
-
-/* Media query: medium mobile phones (375px and up) */
-@media screen and (min-width: 375px) {
-
-    .img-pharoah {
-        width: 150px;
-        height: 250px;
         padding: 7px;
         float: left;
     }
